@@ -1,0 +1,7 @@
+## Interface: 11200
+## Title: LocaleFix |cffaaaaaa[TurtleWoW] 
+## Author: Shagu
+## Notes: Turns xxYY into ptBR
+## Version: 1.0
+
+LocaleFix.lua
